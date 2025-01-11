@@ -8,4 +8,3 @@
 
 - Version control : Track changes to a file over time, allowing you to revert back to the previous version if needed.
 
-## Set Up Link
