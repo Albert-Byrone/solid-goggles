@@ -4,7 +4,7 @@
 - Help developers collaborate, manage a codebase and maintain different versions.
 
 
-## Featuresof Git
+## Features of Git
 
 - Version control : Track changes to a file over time, allowing you to revert back to the previous version if needed.
-
+ 
